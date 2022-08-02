@@ -13,11 +13,15 @@
 ## 15 instanceof
 
 ## 16 继承
-- [x] 原型继承
-- [x] 构造函数继承
-- [x] 组合继承
-- [x] 寄生式组合继承
+- [x] [原型继承](./16.继承/1.原型继承.js)
+- [x] [构造函数继承](./16.继承/2.构造函数继承.js)
+- [x] [组合继承](./16.继承/3.组合继承.js)
+- [x] [寄生式组合继承](./16.继承/4.寄生式组合继承.js)
 - [ ] class实现继承
 
-## 17 Object.is
-- [代码](./17.Object.is.js)
+
+## 17 [Object.is](./17.Object.is.js)
+
+## 20 [Promise.all.js](./20.Promise.all.js)
+
+## 21 [Promise.race.js](./21.Promise.race.js)
