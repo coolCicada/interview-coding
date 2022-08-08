@@ -22,6 +22,11 @@
 
 ## 17 [Object.is](./17.Object.is.js)
 
-## 20 [Promise.all.js](./20.Promise.all.js)
+## 18 [Object.assign](./18.Object.assign.js)
 
-## 21 [Promise.race.js](./21.Promise.race.js)
+## 20 [Promise.all](./20.Promise.all.js)
+
+## 21 [Promise.race](./21.Promise.race.js)
+
+
+## 24 [JSONP](./24.JSONP.js)
