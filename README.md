@@ -24,6 +24,9 @@
 
 ## 18 [Object.assign](./18.Object.assign.js)
 
-## 20 [Promise.all.js](./20.Promise.all.js)
+## 20 [Promise.all](./20.Promise.all.js)
 
-## 21 [Promise.race.js](./21.Promise.race.js)
+## 21 [Promise.race](./21.Promise.race.js)
+
+
+## 24 [JSONP](./24.JSONP.js)
