@@ -38,12 +38,15 @@ class SnapshotSandbox {
 const sandbox = new SnapshotSandbox();
 window.sex = '中';
 window.age = '33';
+window.obj = {
+  i: 'init'
+};
 ((window) => {
   // 激活沙箱
   sandbox.active();
   window.sex= '男';
   window.age = '22';
-  window.obj = { a : 1 };
+  window.obj.a = 2;
   console.log(window.sex, window.age, window.obj);
   // 退出沙箱
   sandbox.inactive();
