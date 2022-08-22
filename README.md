@@ -26,7 +26,9 @@
 
 ## 20 [Promise.all](./20.Promise.all.js)
 
-## 21 [Promise.race](./21.Promise.race.js)
+## 22 [Promise.race](./22.Promise.race.js)
+
+## 23 [Promise并行限制](./23.Promise并行限制.js)
 
 
 ## 24 [JSONP](./24.JSONP.js)
