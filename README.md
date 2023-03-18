@@ -5,6 +5,12 @@
 ```
 
 # 目录
+
+### 1 数组扁平化
+- [x] [使用flat](./1.数组扁平化/1.flat.js)
+- [x] [正则表达式](./1.数组扁平化/2.regularExpression.js)
+- [x] [递归](./1.数组扁平化/3.recursion.js)
+- [x] [reduce](./1.数组扁平化/4.reduce.js)
 ### 14 模拟new操作
 
     1.以fn.prototype为原型创建一个对象
