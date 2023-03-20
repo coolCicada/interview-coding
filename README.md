@@ -31,6 +31,9 @@
 
 ## 18 [Object.assign](./18.Object.assign.js)
 
+## 19 深拷贝和浅拷贝
+- [x] [浅拷贝](./19.深拷贝和浅拷贝/1.shallow.js)
+- [x] [深拷贝](./19.深拷贝和浅拷贝/2.deep.js)
 ## 20 [Promise.all](./20.Promise.all.js)
 
 ## 22 [Promise.race](./22.Promise.race.js)
